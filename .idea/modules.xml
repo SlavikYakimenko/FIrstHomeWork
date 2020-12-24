@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/loop/Loop.iml" filepath="$PROJECT_DIR$/loop/Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/firstHomeWork.iml" filepath="$PROJECT_DIR$/.idea/firstHomeWork.iml" />
     </modules>
   </component>
